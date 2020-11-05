@@ -23,9 +23,11 @@ X-Plane:
 You will be able to see the platform moving only after you go into the "Platform Control" window and click on [Park-->Pause] and then on [Pause --> Motion]
 
 
-The software sends the motion commands out to a MotionController via serial:
+The software sends motion commands to a MotionController via serial:
 https://www.tindie.com/products/tronicgr/amc-aasd15a-servo-motion-controller/
 
+Discussions here:
+https://www.xsimulator.net/community/threads/writing-a-motion-cueing-software-from-scratch.13108/
 
 Let me know if you run in to problems.
 
