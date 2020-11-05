@@ -1,6 +1,6 @@
-# Nutkicker_Motion_Controller
+### Nutkicker_Motion_Controller
 
-Motion cueing software to read motion data out of flightsims. The processed data can be used to drive a 6DOF Stewart-type platform.
+Motion cueing software to read motion data out of flightsims, or really ANY sim for that matter. The processed data can be used to drive a 6DOF Stewart-type platform.
 
 Beginners:
 1. Copy LUA\Nutkicker_Export.lua to the [UserName]\Saved Games\DCS\Scripts\Hooks folder. Create the folders if they don't exist yet.
